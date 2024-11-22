@@ -2,7 +2,7 @@ import Image from "next/image";
 import logo from "../../assets/logo.png";
 import home from "../../assets/home.png";
 import book from "../../assets/book.png";
-import bookMark from "../../assets/bookMark.png";
+import bookMark from "../../assets/bookmark.png";
 import duaQa from "../../assets/duaqa.png";
 import duas from "../../assets/duas.png";
 import memorize from "../../assets/memorize.png";
