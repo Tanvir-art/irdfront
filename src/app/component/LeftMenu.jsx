@@ -1,12 +1,12 @@
 import Image from "next/image";
 import logo from "../../assets/logo.png";
-import home from "../../assets/Home.png";
-import book from "../../assets/Book.png";
-import bookMark from "../../assets/BookMark.png";
-import duaQa from "../../assets/DuaQa.png";
+import home from "../../assets/home.png";
+import book from "../../assets/book.png";
+import bookMark from "../../assets/bookMark.png";
+import duaQa from "../../assets/duaqa.png";
 import duas from "../../assets/duas.png";
-import memorize from "../../assets/Memorize.png";
-import ruqyah from "../../assets/Ruqyah.png";
+import memorize from "../../assets/memorize.png";
+import ruqyah from "../../assets/ruqyah.png";
 import support from "../../assets/support.png";
 
 const LeftMenu = () => {

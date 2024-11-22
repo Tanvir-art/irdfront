@@ -1,8 +1,8 @@
 "use client";
 import allah from "../../assets/allah.png";
-import play from "../../assets/Group 120.png";
+import play from "../../assets/group.png";
 import copy from "../../assets/copy.png";
-import bookmark from "../../assets/bookmark 1.png";
+import bookmark from "../../assets/bookmarko.png";
 import share from "../../assets/share 1.png";
 import light from "../../assets/report 1.png";
 import Image from "next/image";

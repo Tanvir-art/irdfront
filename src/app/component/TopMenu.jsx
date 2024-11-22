@@ -1,7 +1,7 @@
 import React from "react";
-import polygon from "../../assets/polygon 2.png";
-import profile from "../../assets/profile 1.png";
-import frame from "../../assets/Frame.png";
+import polygon from "../../assets/polygon.png";
+import profile from "../../assets/profile.png";
+import frame from "../../assets/frame.png";
 import setting from "../../assets/settings.svg";
 import Image from "next/image";
 

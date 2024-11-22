@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import frame from "../../assets/Frame.png";
+import frame from "../../assets/frame.png";
 import fever from "../../assets/fever.png";
 import Image from "next/image";
 
