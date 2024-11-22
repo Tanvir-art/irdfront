@@ -8,6 +8,7 @@ import memorize from "../../assets/memorize.png";
 import ruqyah from "../../assets/ruqyah.png";
 
 const BottomMenu = () => {
+  // here is comment
   return (
     <div className="fixed bottom-0 left-0 w-full bg-white shadow-md z-50 py-4">
       <div className="flex justify-around">
